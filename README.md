@@ -18,5 +18,5 @@ Note : (**You can ask Kayo on runtime if she is healthy or not and the number of
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Language We Use:
 <b>JAVA</b>
-<b>CSS</b>
+<!-- <b>CSS</b> -->
 <b>HTML</b>
